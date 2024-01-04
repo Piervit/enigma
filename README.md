@@ -3,11 +3,15 @@
 
 A tool for deobfuscation of Java bytecode
 
-this is a fork from :
+this is a fork from:
+@see https://github.com/CyrilP/enigma
 
+which is a fork from: 
 @see http://www.cuchazinteractive.com/enigma/
 
 @see https://bitbucket.org/cuchaz/enigma/src
+
+The fork itself mainly allow it to work with java 17.
 
 Enigma is a Java application that allows you to browse decompiled Java sources from a Jar file. 
 The source browser highlights the obfuscated class/field/method/argument names and allows easy renaming. 
